@@ -7,7 +7,6 @@
 #define MATH_INT64_NATIVE_IF_AVAILABLE
 #include "perl_math_int64.h"
 #include "perl_math_int128.h"
-#include "util.h"
 
 #define MMDBW_RECORD_TYPE_EMPTY (0)
 #define MMDBW_RECORD_TYPE_DATA (1)

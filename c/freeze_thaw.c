@@ -1,5 +1,4 @@
 #include "tree.h"
-#include "util.h"
 
 #include <sys/mman.h>
 #include <sys/types.h>
